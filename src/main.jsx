@@ -8,6 +8,7 @@ import Header from './components/Header.jsx'
 import Contact from './components/Contact.jsx'
 import Awards from './components/Awards.jsx'
 import Events from './components/Events.jsx'
+import Home from './components/Home.jsx'
 
 const router = createBrowserRouter([
   {
@@ -16,7 +17,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: "",
-        element: <Header />,
+        element: <Home />,
       },
       {
         path: "team",
