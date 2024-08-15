@@ -133,7 +133,7 @@ const Awards = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-[#028393] px-4 md:px-8 lg:px-16">
       {/* AWARD'S Section */}
-      <div className="w-full text-center mt-[-150px]">
+      <div className="w-full text-center mt-[70px] mb-16 md:mb-24 lg:mb-32">
         <h1 className="text-orange-500 text-4xl font-bold mb-8">AWARDS</h1>
         <div className="bg-light-aqua-blue rounded-3xl shadow-lg p-8 max-w-5xl mx-auto">
           <div className="space-y-8 max-h-[400px] overflow-y-auto">
