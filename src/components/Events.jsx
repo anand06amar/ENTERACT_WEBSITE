@@ -2,7 +2,7 @@ import React from 'react';
 
 function Events() {
   const ventureEvents = [
-    { title: "IIT Dhanbad", details: "Participated in the annual cultural fest.", image: "./public/IITDhanbad.jpeg" },
+    { title: "IIT Dhanbad", details: "Participated in the annual cultural fest.", image: "./IITDhanbad.jpeg" },
     { title: "IIT Kharagpur", details: "Participated in the cultural fest.", image: "./iit.png" }
   ];
 

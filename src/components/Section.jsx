@@ -5,12 +5,12 @@ const Section = () => {
     {
       title: "NUKKAD",
       description: "It (street play) is a form of theatrical performance conducted in open, public spaces like streets, markets, or parks. It is typically used to convey social, political, or cultural messages in a lively and engaging manner. The actors use minimal props, rely on their voices and body language, and often interact directly with the audience to involve them in the performance.",
-      image: "./public/iit.png"
+      image: "./iit.png"
     },
     {
       title: "MONOACT",
       description: "It is a form of performance in which a single actor portrays multiple characters or delivers a narrative solo. It typically involves dramatic storytelling, using different voices, expressions, and body language to distinguish between characters and convey the story effectively.",
-      image: "./public/monoact.png"
+      image: "./monoact.png"
     },
     {
       title: "MIME",
@@ -20,7 +20,7 @@ const Section = () => {
     {
       title: "STAGE PLAY",
       description: "A stage play is a form of live performance where actors portray characters in a story in front of an audience, typically in a theater. The actors use dialogue, actions, and expressions to bring the script to life, often accompanied by props, costumes, and set designs to enhance the storytelling.",
-      image: "./public/stage.png"
+      image: "./stage.png"
     }
   ];
 
